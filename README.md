@@ -44,5 +44,5 @@ Publish the website in the given URL.
 
 
 ## Result:
-Thus successfully designed a web page for event registration adn displayed
+Thus successfully designed a web page for event registration and displayed
 
